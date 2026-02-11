@@ -3,7 +3,8 @@ Contributors: dipakcg
 Tags: minify, compress, html, css, javascript, js, performance, load, psi, pagespeed insights
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3S8BRPLWLNQ38
 Requires at least: 3.5
-Tested up to: 6.7.2
+Tested up to: 6.9
+Requires PHP: 5.6
 Stable tag: 2.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
